@@ -1,0 +1,1 @@
+$("document").ready(function(){return $(".mode").click(function(){return $(".container").toggleClass("toggle")})});
