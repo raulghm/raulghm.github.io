@@ -1,1 +1,1 @@
-$("document").ready(function(){return $(".mode").click(function(){return $(".container").toggleClass("toggle")})});
+$("document").ready(function(){var n,t,e;return t=$(".container .s").length,n=$(".container").width(),e=n/t,$(".container .s").width(e),$(".mode").click(function(){return $(".container").toggleClass("toggle")})});
